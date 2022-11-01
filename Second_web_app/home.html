@@ -1,0 +1,25 @@
+<style>
+div#d1{
+    border: 2px solid gray;
+}
+</style>
+
+<script>
+    function hi()
+    {
+        document.getElementById("d1").innerHTML ="hi how are you"; 
+    }
+</script>
+
+
+<body>
+    <div id="d1">this my my home page</div>
+    <button onclick="hi()">say hi</button>
+    <br>
+    <br>
+    <br>
+    <form action="/data">
+        Name: <input name="x" /><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>

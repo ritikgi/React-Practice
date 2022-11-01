@@ -1,0 +1,11 @@
+{
+  "name": "first_web_app",
+  "version": "1.0.0",
+  "description": "Trying the first web app and express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritik Gupta",
+  "license": "ISC"
+}
